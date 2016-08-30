@@ -1,5 +1,4 @@
 # hello-darkness
-just another repository 
 
 my old friend...
 
